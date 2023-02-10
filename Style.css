@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+body{ 
+	background:radial-gradient(#1F4761,#000000);
+}
+
+
+.container { 
+width: 700px;
+margin: 40px auto;
+}
+
+.img-circle{
+	border-radius: 50%;
+}
+
+.btn-azure{ 
+background-color: azure;	
+text-decoration: none;
+color: black;
+padding: 10px 15px;
+border-radius: 4px;
+}
+
+.btn-azure:hover {
+  background-color: #1F4761;
+  color: white;
+  }
+
+
+.box2 {
+	display: block;
+	background: rgb(226,226, 226);
+	padding: 40px;       
+	width: 900px;     
+	margin: 60px auto; 
+	box-shadow: 0 10px 25px rgba(0,0,0,.9);
+	border-radius: 30px;
+}
+
+.box2 h1{
+	margin-bottom: 30px;
+	text-align: center;
+	font-family: 'Sora';
+	text-decoration: underline;
+}
+
+.box2 a{
+	color: #34495E ;
+	padding: 9px ;
+}
+
+.box2 p{
+	font-family: 'Poppins', sans-serif;
+	text-align: center	;
+}
+
+
